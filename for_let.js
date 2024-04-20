@@ -1,4 +1,4 @@
-for (let amor = 0;amor<100001;amor++){
-    console.log(`Meu amor por você é igual a ${amor} a velocidade de expansão do universo`) 
+for (let amor = 0;amor<500001;amor++){
+    console.log(`O amor que sinto pela minha rainha é numericamente igual a ${amor} vezes a velocidade de expansão do universo`) 
 }
-console.log("TE AMO <3")
+console.log("TE AMO RAY <3")
